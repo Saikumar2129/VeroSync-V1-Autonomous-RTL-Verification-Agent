@@ -69,6 +69,7 @@ VeroSync_Project/
 - Icarus Verilog: `brew install icarus-verilog` (Mac)
 - Anthropic API key: https://console.anthropic.com
 
+\
 ### Installation
 
 ```bash
@@ -86,7 +87,7 @@ pip install -r requirements.txt
 Create a `.env` file in the project root:
 
 ```
-ANTHROPIC_API_KEY=sk-ant-your-key-here
+API_KEYyour_key_here
 ```
 
 ### Run
